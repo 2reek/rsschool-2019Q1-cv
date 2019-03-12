@@ -31,3 +31,12 @@ h2 {
   top: 5px;
   left: 305px; 
 }
+ol li {
+  font-family: "Maven Pro Regular", sans-serif;
+  color:#071e49;
+  font-size: 19px;
+  line-height: 47.56px;
+  position: relative;
+  top: 178px;
+  left: 85px; 
+}
